@@ -2,7 +2,7 @@ import java.lang.Character;
 
 /**
  * Rot 13 Program
- * @author Benjamin
+ * @author Bewith34
  *
  */
 public class Rot13
