@@ -1,4 +1,4 @@
-Rot13 Program - Benjamin Thomas
+Rot13 Program - Bewith34
 Language - Java
 
 Before running the program, compile the source file using the following command:
